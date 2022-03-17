@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Blog of BokzBCheung',
+  title: 'BokzBCheung',
   author: 'BokzBCheung',
   email: 'bokzbcheung@gmail.com',
   link: 'https://typical-mercury-fd3.notion.site/34a58f49d5f944cda840e26a96f2e11b?v=44301d0bd74346aeb4a1d3f610d385ea',
