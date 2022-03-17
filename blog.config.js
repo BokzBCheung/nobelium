@@ -3,7 +3,7 @@ const BLOG = {
   author: 'BokzBCheung',
   email: 'bokzbcheung@gmail.com',
   link: 'https://typical-mercury-fd3.notion.site/34a58f49d5f944cda840e26a96f2e11b?v=44301d0bd74346aeb4a1d3f610d385ea',
-  description: 'This gonna be an awesome website.',
+  description: '这将会是一个超酷的网站哟！',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
