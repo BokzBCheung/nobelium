@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'HiroshiTeoh',
-  author: 'HiroshiTeoh',
+  title: 'Hiroshi Teoh',
+  author: 'Hiroshi Teoh',
   email: 'bokzbcheung@gmail.com',
   link: 'https://typical-mercury-fd3.notion.site/34a58f49d5f944cda840e26a96f2e11b?v=44301d0bd74346aeb4a1d3f610d385ea',
   description: '这里是一个超酷的网站哟！',
@@ -15,9 +15,9 @@ const BLOG = {
   sortByDate: true,
   showAbout: true,
   showArchive: true,
-  autoCollapsedNavBar: false, // The automatically collapsed navigation bar
+  autoCollapsedNavBar: true, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/bokzbcheung',
+  socialLink: 'https://twitter.com/hiroshi_teoh',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
