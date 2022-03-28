@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'BokzBCheung',
-  author: 'BokzBCheung',
+  title: 'Hiroshi Teoh',
+  author: 'Hiroshi Teoh',
   email: 'bokzbcheung@gmail.com',
   link: 'https://typical-mercury-fd3.notion.site/34a58f49d5f944cda840e26a96f2e11b?v=44301d0bd74346aeb4a1d3f610d385ea',
-  description: '这将会是一个超酷的网站哟！',
+  description: 'Hi,这里是一个超酷的网站哟！',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -11,12 +11,12 @@ const BLOG = {
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2022, // If leave this empty, current year will be used.
-  postsPerPage: 8,
+  postsPerPage: 10,
   sortByDate: true,
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app/**Hiroshi**%20Teoh.png?theme=dark&md=1&fontSize=125px&images=https%3A%2F%2Fnobelium.vercel.app%2Flogo-for-dark-bg.svg', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/bokzbcheung',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
